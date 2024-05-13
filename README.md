@@ -1,3 +1,3 @@
 # CalculadoraSimples
 
-![texto alternativo](img/imagemcalculadora.png)
+![texto alternativo](imagemcalculadora.png)
